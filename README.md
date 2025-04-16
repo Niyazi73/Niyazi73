@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salam! Mənim adım Niyazi Yusifovdur
 
-<!--
-**Niyazi73/Niyazi73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Hal-hazırda ADNSU-nun SABAH qruplarında Proseslərin Avtomatlaşdırılması mühəndisliyi ixtisası üzrə 2-ci kurs tələbəsiyəm. 2027-ci ildə məzun olmağı planlaşdırıram.
 
-Here are some ideas to get you started:
+## 💡 Maraqlarım
+- Elektronika
+- Avtomatlaşdırma
+- Proqramlaşdırma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Sertifikatlar
+- Python: Kaggle, HackerRank, ALAS Academy
+- Yaxın zamanda: AZMİİB və TexnoLab mühəndislik kursları
+
+## 🛠️ Bacarıqlar
+- Python, AutoCAD, MATLAB, Electronics Workbench, Multisim
+- Komanda işi, ünsiyyət, təşəbbüskarlıq
+- Dillər: Azərbaycan, İngilis, Türk
+
+## 🔧 Təcrübələr
+- Python təcrübəsi (1 ay)
+- AZMİİB-də avtomatlaşdırma üzrə təcrübə (2 ay)
+- TexnoLab-da mikrokontroller proqramlaşdırması (3 ay)
+
+## 📂 Layihələr
+- TexnoLab – Kompüter yığımı layihəsi (rol: mikrokontroller proqramlaşdırması)
+
+## 🎯 Məqsədlər
+- Qısamüddətli: Təcrübə və kursları uğurla tamamlamaq
+- Uzunmüddətli: Avtomatlaşdırma sahəsində mühəndis kimi fəaliyyət göstərmək
